@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function (){
+                if((navigator.userAgent.toLowerCase().indexOf("iphone")   > -1) ||
+                  (navigator.userAgent.toLowerCase().indexOf("ipod")     > -1) ||
+                  (navigator.userAgent.toLowerCase().indexOf("ipad")     > -1)) {
+                    // iOS
+                    window.location.href = "https://apps.apple.com/app/id6502765671";
+                }else if(navigator.userAgent.toLowerCase().indexOf("android") > -1) {
+                    // Android
+                    window.location.href = "https://play.google.com/store/apps/details?id=com.kamakurablog.suzuran.suzuran2024catroom.dist";
+                }else{
+                    // Other
+                    window.location.href = "https://apps.apple.com/app/id6502765671";
+                }
+            });
+        </script>
+    </head>
+    <body>
+    </body>
+</html>
