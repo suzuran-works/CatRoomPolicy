@@ -169,3 +169,8 @@ https://play.google.com/store/apps/details?id=com.kamakurablog.suzuran.suzuran20
 本規約に関するお問い合わせは、プライバシーポリシー「8. お問い合わせ」に記載する本アプリ掲載ページのデベロッパー連絡先からご連絡ください。
 
 （最終更新日：2026.07.25）
+
+
+---
+
+ストアページ: [https://suzuran-works.github.io/CatRoomPolicy/](https://suzuran-works.github.io/CatRoomPolicy/)
